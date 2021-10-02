@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Fazil !!! Good to see you all in my profile.</h1>
-<h3 align="center">Engineering student with a passion for computing and new technologies.</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Fazil !!! Happy to see you all in my profile.</h1>
+<h3 align="center">An Engineering student with a passion for computing and new technologies.</h3>
 
 - 🌱 I’m currently learning **React Js**
 
@@ -7,8 +7,10 @@
 
 - 📫 How to reach me **mofazil1717@gmail.com**
 
-- ⚡ Fun fact **hire me.....LoL!!!!**
+- 😻I love Cat 🐾
 
+- ⚡ Fun fact **hire me.....LoL!!!!**
+<img src="https://c.tenor.com/hHaVzeiH-hcAAAAC/imsickofwork-technologysu-x.gif" alt="cat-programmer" align="right">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fazil1717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fazil1717" height="30" width="40" /></a>
