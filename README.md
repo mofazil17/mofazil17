@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" alt="wave" width="30px">, I'm Mohamed Fazil !!! Happy to see you all in my profile.</h1>
+<h1 align="center" >Hi <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" alt="wave" width="30px">, I'm Mohamed Fazil !!! Happy to see you all in my profile.</h1>
 <h3 align="center">An Engineering student with a passion for learning and exploring new technologies.</h3>
 
 - 🌱 I’m currently learning **React Js**
@@ -20,7 +20,18 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mofazil17&label=Profile%20views&color=0e75b6&style=flat" alt="mofazil17"/> </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+![c](https://user-images.githubusercontent.com/85509306/138152751-0f3ab8c8-228c-4779-b2b9-6257bcc4ae56.png)
+![icons8-c++-50](https://user-images.githubusercontent.com/85509306/138154133-20b5ae8f-f50b-4b3a-aea2-fcbb9a561b80.png)
+![icons8-html-5-50](https://user-images.githubusercontent.com/85509306/138154169-1f4b4be6-445a-41f2-9ac7-35758be2ae3a.png)
+![icons8-css3-50](https://user-images.githubusercontent.com/85509306/138154185-7420f31a-1825-4d52-9d79-8b068ef12dc7.png)
+![icons8-javascript-50](https://user-images.githubusercontent.com/85509306/138154180-b3a20378-a7be-4894-adbb-b95e74ae1071.png)
+![icons8-python-50](https://user-images.githubusercontent.com/85509306/138153899-82919014-79b1-4059-8412-f5b37059a4a7.png)
+![icons8-java-50](https://user-images.githubusercontent.com/85509306/138153909-336e0b2d-2831-4809-9768-c6593aaf4eaa.png)
+![mysql](https://user-images.githubusercontent.com/85509306/138153925-5222ad69-b16f-4d5a-9303-5718d623a063.png)
+![icons8-react-native-50](https://user-images.githubusercontent.com/85509306/138153934-cd97913c-04a4-4581-b4f5-53a1194ac141.png)
+![icons8-git-50](https://user-images.githubusercontent.com/85509306/138153946-8a59baca-39d8-4f33-b729-5fd799ca1fbb.png)
+
 <br>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mofazil17&show_icons=true&theme=chartreuse-dark" />
