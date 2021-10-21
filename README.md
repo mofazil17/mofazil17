@@ -9,7 +9,7 @@
 
 - 😻I love Cat 🐾
 
-- ⚡ Fun fact **hire me.....LoL!!!!**
+- ⚡ Fun fact "***hire me.....LoL!!!!***"
 <img src="https://c.tenor.com/hHaVzeiH-hcAAAAC/imsickofwork-technologysu-x.gif" alt="cat-programmer" align="right">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
