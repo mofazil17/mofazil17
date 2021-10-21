@@ -13,9 +13,12 @@
 <img src="https://c.tenor.com/hHaVzeiH-hcAAAAC/imsickofwork-technologysu-x.gif" alt="cat-programmer" align="right">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fazil1717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fazil1717" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohamedfazil17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamedfazil17" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_fazil_mohamed_17._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_fazil_mohamed_17._/" height="30" width="40" /></a>
+<a href="https://twitter.com/fazil1717" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85509306/138258874-23d2ae16-e102-4b61-b737-9fc6f81e556b.png" alt="fazil1717" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/mohamedfazil17/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85509306/138258869-61a34a74-0994-48b5-bc35-1427299bb38c.png" alt="www.linkedin.com/in/mohamedfazil17" height="50" width="50" /></a>
+<a href="https://www.instagram.com/_fazil_mohamed_17._/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85509306/138258865-1de4ac87-cf80-4d41-b7e6-6cd0769024d4.png" alt="https://www.instagram.com/_fazil_mohamed_17._/" height="50" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008303491916" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85509306/138258859-996c5bd4-dcc5-4128-a2c9-c9f70709f84a.png" alt="https://www.facebook.com/profile.php?id=100008303491916" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/mofazil1717" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85509306/138258881-7cb45f97-3d79-46d1-882e-1b7b5b919003.png" alt="https://www.hackerrank.com/mofazil1717" height="43" width="43" /></a>
+<a href="https://dev.to/fazilmohamed17" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85509306/138258878-f883eb74-67f0-4d51-84a1-75a36cb7592c.png" alt="https://dev.to/fazilmohamed17" height="50" width="50" /></a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mofazil17&label=Profile%20views&color=0e75b6&style=flat" alt="mofazil17"/> </p>
