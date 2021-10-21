@@ -1,17 +1,17 @@
 <h1 align="center" >Hi <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" alt="wave" width="30px">, I'm Mohamed Fazil !!! Happy to see you all in my profile.</h1>
 <h3 align="center">An Engineering student with a passion for learning and exploring new technologies.</h3>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **C,C++,Js.....**
+- 💬 Ask me about **C, C++, Js, etc....**
 
-- 📫 How to reach me **mofazil1717@gmail.com**
+- 📫 How to reach me: **mofazil1717@gmail.com**
 
 - 😻I love Cat 🐾
 
 - ⚡ Fun fact "***hire me.....LoL!!!!***"
 <img src="https://c.tenor.com/hHaVzeiH-hcAAAAC/imsickofwork-technologysu-x.gif" alt="cat-programmer" align="right">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/fazil1717" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85509306/138258874-23d2ae16-e102-4b61-b737-9fc6f81e556b.png" alt="fazil1717" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/mohamedfazil17/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85509306/138258869-61a34a74-0994-48b5-bc35-1427299bb38c.png" alt="www.linkedin.com/in/mohamedfazil17" height="50" width="50" /></a>
@@ -21,8 +21,7 @@
 <a href="https://dev.to/fazilmohamed17" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85509306/138258878-f883eb74-67f0-4d51-84a1-75a36cb7592c.png" alt="https://dev.to/fazilmohamed17" height="50" width="50" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mofazil17&label=Profile%20views&color=0e75b6&style=flat" alt="mofazil17"/> </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 ![c](https://user-images.githubusercontent.com/85509306/138152751-0f3ab8c8-228c-4779-b2b9-6257bcc4ae56.png)
 ![icons8-c++-50](https://user-images.githubusercontent.com/85509306/138154133-20b5ae8f-f50b-4b3a-aea2-fcbb9a561b80.png)
@@ -39,7 +38,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mofazil17&show_icons=true&theme=chartreuse-dark" />
   <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mofazil17&theme=chartreuse-dark" />
-</p> 
+</p>
 
 <p style="margin:10px;" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mofazil17&theme=chartreuse-dark" alt="mofazil17" /></p>
 
