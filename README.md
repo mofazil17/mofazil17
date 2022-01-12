@@ -9,7 +9,6 @@
 
 - 😻I love Cat 🐾
 
-- ⚡ Fun fact "***hire me.....LoL!!!!***"
 
 <img src="https://komarev.com/ghpvc/?username=mofazil17&style=flat-square" alt="views" >
 <img src="https://c.tenor.com/hHaVzeiH-hcAAAAC/imsickofwork-technologysu-x.gif" alt="cat-programmer" align="right">
